@@ -80,7 +80,8 @@
       font-weight: 200;
       letter-spacing: .5px;
       margin: 0;
-      color: white; }
+      color: white;
+      font-size: 1rem; }
 
 .gallery-item:hover .gallery-item__image {
   transition: all .8s ease;
