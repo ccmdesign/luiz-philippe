@@ -1,8 +1,10 @@
 <div class="gallery-item cat-{{item.category}}">
-  <div class="gallery-item__image" style="background-image: url(./images/{{item.category}}/{{item.main_image}});"></div>
-  
-  <div class="gallery-item__info">
-    <h3>{{item.name}}</h3>  
-  </div>
+  <a href="./gallery/{{item.url | slugify}}.html">
+    <div class="gallery-item__image" style="background-image: url(./images/{{item.category}}/{{item.main_image}});"></div>
+    
+    <div class="gallery-item__info">
+      <h3>{{item.title}}</h3>  
+    </div>
+  </a>
   
 </div>

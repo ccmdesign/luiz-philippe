@@ -35,4 +35,8 @@ exclude:
 source: ./source
 # sass_dir: source/css
 
-
+page_gen:
+  - data: 'gallery'
+    template: 'gallery-detail'
+    name: 'url'
+    dir: 'gallery'

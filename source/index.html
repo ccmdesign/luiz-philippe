@@ -6,17 +6,13 @@ subtitle: Artísta Plastico
 
 <main role="main"> <!-- main content starts here -->
 
-<header class="master-header">
-  <h1><img src="./images/general/assinatura.gif" alt=""></h1>
-</header>
-
 <h2 id="assamblages" class="section-divider">
   <a href="#esculturas" class="">Esculturas</a>
   <a href="#assamblages" class="active">Assambleges</a>
   <a href="#exposicoes" class="">Exposições</a>
 </h2>
 <section class="gallery">
-{% for item in site.data.data %}
+{% for item in site.data.gallery %}
   {% if item.category == 'assamblage' %}
     {% include gallery-item.html %}
   {% endif %}
@@ -29,7 +25,7 @@ subtitle: Artísta Plastico
   <a href="#exposicoes" class="">Exposições</a>
 </h2>
 <section class="gallery">
-{% for item in site.data.data %}
+{% for item in site.data.gallery %}
   {% if item.category == 'escultura' %}
     {% include gallery-item.html %}
   {% endif %}
@@ -42,16 +38,11 @@ subtitle: Artísta Plastico
   <a href="#esculturas" class="">Esculturas</a>
 </h2>
 <section class="gallery">
-{% for item in site.data.data %}
+{% for item in site.data.gallery %}
   {% if item.category == 'exposicao' %}
     {% include gallery-item.html %}
   {% endif %}
 {% endfor %}
 </section>
-
-<footer class="footer">
-  <img src="./images/general/assinature-neg.gif" alt="">
-</footer>
-
 </main>
 
