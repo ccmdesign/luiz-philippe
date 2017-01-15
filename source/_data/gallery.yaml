@@ -550,11 +550,10 @@
 
 - title: ArtRio 2013
   category: exposicao
-  main_image: artrio-2013-1.jpg
+  main_image: artrio-2013-2.jpg
   url: artrio-2013
   description:
   related-images:
-    - artrio-2013-2.jpg
     - artrio-2013-3.jpg
     - artrio-2013-4.jpg
     - artrio-2013-5.jpg
@@ -562,19 +561,19 @@
 
 - title: CasaCor 2013
   category: exposicao
-  main_image: casacor-2013-1.jpg
+  main_image: casacor-2013-2.jpg
   url: casacor-2013
   description:
   related-images:
-    - casacor-2013-2.jpg
+    - casacor-2013-1.jpg
 
 - title: Diálogos
   category: exposicao
-  main_image: dialogos-1.jpg
+  main_image: dialogos-2.jpg
   url: dialogos
   description:
   related-images:
-    - dialogos-2.jpg
+    - dialogos-1.jpg
     - dialogos-3.jpg
     - dialogos-4.jpg
 
@@ -601,12 +600,12 @@
 
 - title: Galeria Multiplo
   category: exposicao
-  main_image: galeria-multiplo-1.jpg
+  main_image: galeria-multiplo-3.jpg
   url: galeria-multiplo
   description:
   related-images:
     - galeria-multiplo-2.jpg
-    - galeria-multiplo-3.jpg
+    - galeria-multiplo-1.jpg
 
 
 
