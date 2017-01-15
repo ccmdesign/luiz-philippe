@@ -1,0 +1,57 @@
+---
+layout: default
+title: Luiz Philippe Carneiro de Mendonça
+subtitle: Artísta Plastico
+---
+
+<main role="main"> <!-- main content starts here -->
+
+<header class="master-header">
+  <h1><img src="/images/general/assinatura.gif" alt=""></h1>
+</header>
+
+<h2 id="assamblages" class="section-divider">
+  <a href="#esculturas" class="">Esculturas</a>
+  <a href="#assamblages" class="active">Assambleges</a>
+  <a href="#exposicoes" class="">Exposições</a>
+</h2>
+<section class="gallery">
+{% for item in site.data.data %}
+  {% if item.category == 'assamblage' %}
+    {% include gallery-item.html %}
+  {% endif %}
+{% endfor %}
+</section>
+
+<h2 id="esculturas" class="section-divider">
+  <a href="#assamblages" class="">Assambleges</a>
+  <a href="#esculturas" class="active">Esculturas</a>
+  <a href="#exposicoes" class="">Exposições</a>
+</h2>
+<section class="gallery">
+{% for item in site.data.data %}
+  {% if item.category == 'escultura' %}
+    {% include gallery-item.html %}
+  {% endif %}
+{% endfor %}
+</section>
+
+<h2 id="exposicoes" class="section-divider">
+  <a href="#assamblages" class="">Assambleges</a>
+  <a href="#exposicoes" class="active">Exposições</a>
+  <a href="#esculturas" class="">Esculturas</a>
+</h2>
+<section class="gallery">
+{% for item in site.data.data %}
+  {% if item.category == 'exposicao' %}
+    {% include gallery-item.html %}
+  {% endif %}
+{% endfor %}
+</section>
+
+<footer class="footer">
+  <img src="/images/general/assinature-neg.gif" alt="">
+</footer>
+
+</main>
+

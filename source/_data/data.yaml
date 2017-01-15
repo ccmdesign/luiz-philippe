@@ -1,0 +1,555 @@
+- name: Ex-Voto III
+  category: assamblage
+  main_image: Ex-voto-III-baixa.jpg
+  description:
+  related-images:
+
+- name: Aliança
+  category: assamblage
+  main_image: alianca.jpg
+  description:
+  related-images:
+
+- name: Arcanjo
+  category: assamblage
+  main_image: arcanjo-1.jpg
+  description:
+  related-images:
+    - arcanjo-2.jpg
+
+- name: Ares
+  category: assamblage
+  main_image: ares.jpg
+  description:
+  related-images:
+
+- name: Brasil 500 Anos
+  category: assamblage
+  main_image: brasil-500-anos.jpg
+  description:
+  related-images:
+
+- name: Burca
+  category: assamblage
+  main_image: burca.jpg
+  description:
+  related-images:
+
+- name: Cave Canem
+  category: assamblage
+  main_image: cave-canem.jpg
+  description:
+  related-images:
+
+- name: Ciclo Mortal
+  category: assamblage
+  main_image: ciclo-mortal.jpg
+  description:
+  related-images:
+
+- name: Circo
+  category: assamblage
+  main_image: circo.jpg
+  description:
+  related-images:
+
+- name: Da Cor do Mar
+  category: assamblage
+  main_image: da-cor-do-mar-1.jpg
+  description:
+  related-images:
+    - da-cor-do-mar-2.jpg
+
+- name: Dados
+  category: assamblage
+  main_image: dados.jpg
+  description:
+  related-images:
+    - dado-branco.jpg
+    - dado-preto.jpg
+
+- name: Debret
+  category: assamblage
+  main_image: debret-1.jpg
+  description:
+  related-images:
+    - debret-2.jpg
+
+- name: Elementos
+  category: assamblage
+  main_image: elementos-1.jpg
+  description:
+  related-images:
+    - elementos-2.jpg
+
+- name: Espreita
+  category: assamblage
+  main_image: espreita.jpg
+  description:
+  related-images:
+
+- name: Figura Barroca em Apuros
+  category: assamblage
+  main_image: figura-barroca-em-apuros.jpg
+  description:
+  related-images:
+
+- name: Ícaro
+  category: assamblage
+  main_image: icaro.jpg
+  description:
+  related-images:
+
+- name: Índia com Bacia
+  category: assamblage
+  main_image: india-com-bacia-1.jpg
+  description:
+  related-images:
+    - india-com-bacia-2.jpg
+
+- name: Índia se Banhando
+  category: assamblage
+  main_image: india-se-banhando-1.jpg
+  description:
+  related-images:
+    - india-se-banhando-2.jpg
+    - india-se-banhando-3.jpg
+    - india-se-banhando-4.jpg
+    - india-se-banhando-5.jpg
+    - india-se-banhando-6.jpg
+
+- name: Índio Canoeiro
+  category: assamblage
+  main_image: indio-canoeiro.jpg
+  description:
+  related-images:
+
+- name: Jovem Kayapó
+  category: assamblage
+  main_image: jovem-kayapo.jpg
+  description:
+  related-images:
+
+- name: La Concha
+  category: assamblage
+  main_image: la-concha.jpg
+  description:
+  related-images:
+
+- name: Lacrimorium
+  category: assamblage
+  main_image: lacrimorium.jpg
+  description:
+  related-images:
+
+- name: Lava
+  category: assamblage
+  main_image: lava.jpg
+  description:
+  related-images:
+
+- name: Mãozinhas
+  category: assamblage
+  main_image: maozinhas.jpg
+  description:
+  related-images:
+
+- name: Martírio
+  category: assamblage
+  main_image: martirio.jpg
+  description:
+  related-images:
+
+- name: Mesa
+  category: assamblage
+  main_image: mesa.jpg
+  description:
+  related-images:
+
+- name: Mulher a Bacia
+  category: assamblage
+  main_image: mulher-a-bacia-1.jpg
+  description:
+  related-images:
+    - mulher-a-bacia-2.jpg
+
+- name: Não Duplicarás
+  category: assamblage
+  main_image: nao-duplicaras-1.jpg
+  description:
+  related-images:
+    - nao-duplicaras-2.jpg
+    - nao-duplicaras-3.jpg
+
+- name: Nascente
+  category: assamblage
+  main_image: nascente-1.jpg
+  description:
+  related-images:
+    - nascente-2.jpg
+
+- name: Negro Globo
+  category: assamblage
+  main_image: negro-globo-1.jpg
+  description:
+  related-images:
+    - negro-globo-2.jpg
+
+- name: O Banho de Mlle Pogany
+  category: assamblage
+  main_image: o-banho-de-mlle-pogany.jpg
+  description:
+  related-images:
+
+- name: O Estado da Guanabara
+  category: assamblage
+  main_image: o-estado-da-guanabara-1.jpg
+  description:
+  related-images:
+    - o-estado-da-guanabara-2.jpg
+
+- name: Olho
+  category: assamblage
+  main_image: olho.jpg
+  description:
+  related-images:
+
+- name: Ovo de Colombo II
+  category: assamblage
+  main_image: ovo-de-Colombo-II-+-ovo-baixa.jpg
+  description:
+  related-images:
+    - ovo-de-Colombo-II.jpg
+    - ovo.jpg
+
+- name: Peixes
+  category: assamblage
+  main_image: peixes.jpg
+  description:
+  related-images:
+
+- name: Pensador
+  category: assamblage
+  main_image: pensador-1.jpg
+  description:
+  related-images:
+    - pensador-2.jpg
+
+- name: Rosa dos Ventos
+  category: assamblage
+  main_image: rosa-dos-ventos.jpg
+  description:
+  related-images:
+    - silencio-absoluto.jpg
+
+- name: Souvenir I
+  category: assamblage
+  main_image: souvenir-I.jpg
+  description:
+  related-images:
+
+- name: Souvernir II
+  category: assamblage
+  main_image: souvenir-II.jpg
+  description:
+  related-images:
+
+- name: Vela 
+  category: assamblage
+  main_image: vela-1.jpg
+  description:
+  related-images:
+    - vela-2.jpg
+    - vela-3.jpg
+
+- name: Vida Latente
+  category: assamblage
+  main_image: vida-latente-1.jpg
+  description:
+  related-images:
+    - vida-latente-2.jpg
+
+- name: Anjo
+  category: escultura
+  main_image: anjo-1.jpg
+  description:
+  related-images:
+    - anjo-2.jpg
+
+- name: Anno D
+  category: escultura
+  main_image: anno-d-1.jpg
+  description:
+  related-images:
+    - anno-d-2.jpg
+
+- name: Astrolábio
+  category: escultura
+  main_image: astrolabio.jpg
+  description:
+  related-images:
+
+- name: Big Brother
+  category: escultura
+  main_image: big-brother-1.jpg
+  description:
+  related-images:
+    - big-brother-2.jpg
+
+- name: Bolsa
+  category: escultura
+  main_image: bolsa-1.jpg
+  description:
+  related-images:
+
+- name: Cadeira
+  category: escultura
+  main_image: cadeira-1.jpg
+  description:
+  related-images:
+    - cadeira-2.jpg
+    - cadeira-3.jpg
+    - cadeira-4.jpg
+    - cadeira-5.jpg
+    - cadeira-6.jpg
+    - cadeira-7.jpg
+    - cadeira-8.jpg
+    - cadeira-9.jpg
+    - cadeira-10.jpg
+
+- name: Casa Imprópria
+  category: escultura
+  main_image: casa-Impropria-1.jpg
+  description:
+  related-images:
+    - casa-Impropria-2.jpg
+    - casa-Impropria-3.jpg
+
+- name: Cavalinho
+  category: escultura
+  main_image: cavalinho-1.jpg
+  description:
+  related-images:
+    - cavalinho-2.jpg
+    - cavalinho-3.jpg
+
+- name: Cavalo Rampante
+  category: escultura
+  main_image: cavalo-ramapnte-1.jpg
+  description:
+  related-images:
+    - cavalo-ramapnte-2.jpg
+
+- name: Cavalos
+  category: escultura
+  main_image: cavalos-1.jpg
+  description:
+  related-images:
+    - cavalos-2.jpg
+    - cavalos-3.jpg
+    - cavalos-4.jpg
+    - cavalos-5.jpg
+    - cavalos-6.jpg
+    - cavalos-7.jpg
+    - cavalos-8.jpg
+    - cavalos-9.jpg
+    - cavalos-10.jpg
+
+- name: Culpa
+  category: escultura
+  main_image: culpa-1.jpg
+  description:
+  related-images:
+    - culpa-2.jpg
+
+- name: Esfinge
+  category: escultura
+  main_image: esfinge-1.jpg
+  description:
+  related-images:
+    - esfinge-2.jpg
+    - esfinge-3.jpg
+
+- name: Globo Ocular
+  category: escultura
+  main_image: globo-ocular-1.jpg
+  description:
+  related-images:
+    - globo-ocular-2.jpg
+    - globo-ocular-3.jpg
+
+- name: Îcarus
+  category: escultura
+  main_image: icarus-1.jpg
+  description:
+  related-images:
+    - icarus-2.jpg
+
+- name: Leite Derramado
+  category: escultura
+  main_image: leite-derramado.jpg
+  description:
+  related-images:
+
+- name: Lição de Adestramento
+  category: escultura
+  main_image: licao-de-adestramento.jpg
+  description:
+  related-images:
+
+- name: Livro 
+  category: escultura
+  main_image: livro-1.jpg
+  description:
+  related-images:
+    - livro-2.jpg
+    - livro-3.jpg
+
+- name: Malas de Pedra
+  category: escultura
+  main_image: mala-de-pedra-1.jpg
+  description:
+  related-images:
+    - mala-de-pedra-2.jpg
+    - malas-de-pedra-1.jpg
+    - malas-de-pedra-2.jpg
+    - malas-de-pedra-3.jpg
+    - malas-de-pedra-4.jpg
+    - malas-de-pedra-5.jpg
+    - malas-de-pedra-6.jpg
+    - malas-de-pedra-7.jpg
+    - malas-de-pedra-8.jpg
+    - malas-de-pedra-9.jpg
+    - malas-de-pedra-10.jpg
+    - malas-de-pedra-11.jpg
+    - malas-de-pedra-12.jpg
+    - malas-de-pedra-13.jpg
+    - mala-sobre-o-mar-2.jpg
+
+- name: Manequim
+  category: escultura
+  main_image: manequim-1.jpg
+  description:
+  related-images:
+    - manequim-2.jpg
+    - manequim-3.jpg
+
+- name: Metropolitain
+  category: escultura
+  main_image: metropolitain.jpg
+  description:
+  related-images:
+
+- name: Ovo de Colombo II
+  category: escultura
+  main_image: ovo-de-colombo-1.jpg
+  description:
+  related-images:
+    - ovo-de-colombo-2.jpg
+
+- name: Pá com Colar
+  category: escultura
+  main_image: pa-com-colar.jpg
+  description:
+  related-images:
+
+- name: Poço
+  category: escultura
+  main_image: poco-1.jpg
+  description:
+  related-images:
+    - poco-2.jpg
+    - poco-3.jpg
+
+- name: Relatos
+  category: escultura
+  main_image: relatos-1.jpg
+  description:
+  related-images:
+    - relatos-2.jpg
+
+- name: Unicórnio
+  category: escultura
+  main_image: unicornio.jpg
+  description:
+  related-images:
+
+- name: Vitória Alada
+  category: escultura
+  main_image: vitoria-alada-1.jpg
+  description:
+  related-images:
+    - vitoria-alada-2.jpg
+
+- name: ArtRio 2013
+  category: exposicao
+  main_image: artrio-2013-1.jpg
+  description:
+  related-images:
+    - artrio-2013-2.jpg
+    - artrio-2013-3.jpg
+    - artrio-2013-4.jpg
+    - artrio-2013-5.jpg
+    - artrio-2013-6.jpg
+
+- name: CasaCor 2013
+  category: exposicao
+  main_image: casacor-2013-1.jpg
+  description:
+  related-images:
+    - casacor-2013-2.jpg
+
+- name: Diálogos
+  category: exposicao
+  main_image: dialogos-1.jpg
+  description:
+  related-images:
+    - dialogos-2.jpg
+    - dialogos-3.jpg
+    - dialogos-4.jpg
+
+- name: Exposição Malas Prontas
+  category: exposicao
+  main_image: expo-malas-prontas-1.JPG
+  description:
+  related-images:
+    - expo-malas-prontas-2.jpg
+    - expo-malas-prontas-3.jpg
+
+- name: ExpoLP 2013
+  category: exposicao
+  main_image: expolp-2013-1.jpg
+  description:
+  related-images:
+    - expolp-2013-2.jpg
+    - expolp-2013-3.jpg
+    - expolp-2013-4.jpg
+    - expolp-2013-5.jpg
+    - expolp-2013-6.jpg
+
+- name: Galeria Multiplo
+  category: exposicao
+  main_image: galeria-multiplo-1.jpg
+  description:
+  related-images:
+    - galeria-multiplo-2.jpg
+    - galeria-multiplo-3.jpg
+
+# - name:
+#   category: 
+#   main_image: 
+#   description:
+#   related-images:
+
+
+
+
+
+
+
+
+
+
+
+
+
