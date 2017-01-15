@@ -7,9 +7,9 @@
 
     <title>{{page.title}}</title>
     
-    <link rel="stylesheet" href="{{ './vendor/foundation.min.css' | relative_url}}">
-    <link rel="stylesheet" href="{{ './vendor/slick.css' | relative_url}}">
-    <link rel="stylesheet" href="{{ './css/styles.css' | relative_url}}">
+    <link rel="stylesheet" href="{{ './vendor/foundation.min.css' | absolute_url}}">
+    <link rel="stylesheet" href="{{ './vendor/slick.css' | absolute_url}}">
+    <link rel="stylesheet" href="{{ './css/styles.css' | absolute_url}}">
     <script src="https://use.typekit.net/mvc3cdb.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -17,15 +17,15 @@
 
   <body>
     <header class="master-header">
-      <h1><a href="{{ './' | relative_url}}"><img src='{{ "./images/general/assinatura.gif" | relative_url }}' alt=""></a></h1>
+      <h1><a href="{{ './' | absolute_url}}"><img src='{{ "./images/general/assinatura.gif" | absolute_url }}' alt=""></a></h1>
     </header>
     {{content}}
     <footer class="footer">
-      <img src='{{ "./images/general/assinature-neg.gif" | relative_url }}' alt="">
+      <img src='{{ "./images/general/assinature-neg.gif" | absolute_url }}' alt="">
     </footer>
     <div id="overlay" class="js-overlay"></div>
-    <script src="{{'./vendor/jquery-2.1.4.min.js' | relative_url}}"></script>
-    <script src="{{'./vendor/slick.min.js' | relative_url}}"></script>
-    <script src="{{'./js/scripts.js' | relative_url}}"></script>
+    <script src="{{'./vendor/jquery-2.1.4.min.js' | absolute_url}}"></script>
+    <script src="{{'./vendor/slick.min.js' | absolute_url}}"></script>
+    <script src="{{'./js/scripts.js' | absolute_url}}"></script>
   </body>
 </html>
