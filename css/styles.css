@@ -21,9 +21,12 @@
   border-radius: 0;
   text-transform: uppercase;
   color: black;
-  opacity: .4; }
-  .button.active {
-    opacity: 1; }
+  opacity: .4;
+  text-decoration: none;
+  transition: all .3s ease; }
+  .button.active, .button:hover {
+    opacity: 1;
+    transition: all .3s ease; }
 
 .section-divider {
   margin: 100px 0 60px;
@@ -87,3 +90,23 @@
 .gallery-item:hover .gallery-item__info {
   bottom: 0;
   transition: all .2s ease; }
+
+.gallery-detail {
+  text-align: center; }
+  .gallery-detail h1 {
+    font-weight: 200;
+    font-size: 3rem; }
+  .gallery-detail__image {
+    margin: 10px 10px 40px;
+    max-width: 800px;
+    max-height: 500px; }
+  .gallery-detail__main-image {
+    display: block;
+    margin: 10px auto 120px;
+    max-width: 800px;
+    max-height: 700px; }
+
+.related-images {
+  display: block; }
+  .related-images__item {
+    display: inline-block; }
