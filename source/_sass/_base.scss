@@ -1,5 +1,6 @@
-body {
-  
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .master-header {
@@ -56,7 +57,7 @@ body {
   }
 
   a.active {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 100;
   }
 }
@@ -68,12 +69,13 @@ body {
 }
 
 .gallery-item {
-  flex: 0 0 20%;
+  flex: 0 0 22%;
   margin: 5px;
-  min-width: 20%;
-  padding-bottom: 15%;
+  min-width: 22%;
+  min-height: 300px;
   position: relative;
   overflow: hidden;
+  height: auto;
   
   &__image {
     position: absolute;
@@ -87,7 +89,7 @@ body {
     transition: all .8s ease;
     filter: grayscale(100%);
     opacity: .4;
-    transform: scale(3.5);
+    transform: scale(2);
   }
 
   &__info {
