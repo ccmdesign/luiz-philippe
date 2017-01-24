@@ -59,11 +59,17 @@ $(document).ready(function () {
 
     // Slider
     $('.slider').slick({
-        arrows: true,
-        draggable: false,
+        arrows: false,
+        draggable: true,
         swipeToSlide: true,
         autoplay: true,
+        centerMode: true,
         autoplaySpeed: 3000,
+        dots: false,
+        infinite: true,
+        speed: 2000,
+        fade: true,
+        cssEase: 'linear',
         responsive: [
             {
                 breakpoint: 800,

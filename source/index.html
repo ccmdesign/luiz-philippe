@@ -6,6 +6,18 @@ subtitle: Artísta Plastico
 
 <main role="main"> <!-- main content starts here -->
 
+<div class="slider">
+{% for slide in site.data.slider %}
+<div class="slide">
+  <img src="/images/{{slide.category}}/{{slide.main_image}}" alt="{{slide.title}}" class="slide__image">  
+</div>
+{% endfor %}
+</div>
+
+<header class="master-header">
+  <h1><a href="{{ './' | relative_url}}"><img src='{{ "/images/general/assinatura.gif" | relative_url }}' alt=""></a></h1>
+</header>
+
 <h2 id="assamblages" class="section-divider">
   <a href="#esculturas" class="">Esculturas</a>
   <a href="#assamblages" class="active">Assamblages</a>
