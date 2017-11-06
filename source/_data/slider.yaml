@@ -3,11 +3,16 @@
 #   main_image: cadeira-1.jpg
 #   url: cadeira
 
+- title: Cadeiras e Malas
+  category: escultura
+  main_image: cadeiras-malas.jpg
+
 - title: Malas de Pedra
   category: escultura
   main_image: malas-de-pedra-10.jpg
   url: mala-de-pedra
 
-- title: Pá com Colar
-  category: escultura
-  main_image: pa-com-colar.jpg
+# - title: Pá com Colar
+#   category: escultura
+#   main_image: pa-com-colar.jpg
+
